@@ -33,9 +33,9 @@
   flex-direction: column;
 }
 
-.app__wrapper_img {
+.app__wrapper_img img {
   flex: 1;
-  width: 100%;
+  width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -48,13 +48,9 @@
   margin-right: 2rem;
 }
 
-.app__wrapper_img img {
-  width: 80%;
-}
-
 .custom__button {
-  background-color: var(--color-crimson);
-    color: var(--color-black);
+  background-color: var(--color-pink);
+    color: var(--color-white);
     font-family: var(--font-base);
     font-weight: 700;
     letter-spacing: 0.04em;
@@ -90,7 +86,7 @@
 
 .headtext__cormorant {
   font-family: var(--font-base);
-  color: var(--color-golden);
+  color: var(--color-white);
   font-size: 64px;
   line-height: 83.2px;
   letter-spacing: 0.04em;
@@ -98,7 +94,7 @@
 }
 
 .spoon__img {
-  width: 45px;
+  width: 50px;
 }
 
 @media screen and (min-width: 2000px) {
@@ -137,7 +133,7 @@
   }
 
   .app__wrapper_img img {
-    width: 100%;
+    width: 50%;
   }
 }
 
