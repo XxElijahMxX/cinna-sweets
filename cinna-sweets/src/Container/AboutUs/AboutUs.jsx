@@ -21,7 +21,7 @@ const AboutUs = () => {
         </div>
 
         <div className="app__aboutus-content_cinna flex__center">
-        <img src={images.cinna} alt="about_cinna" />
+        <img src={images.menu} alt="about_cinna" />
       </div>
 
         <div className="app__aboutus-content_history">
