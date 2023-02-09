@@ -22,7 +22,7 @@
 }
 
 .app__menuitem-dash {
-    width: 90px;
+    width: 300px;
     height: 1px;
 
     background: var(--color-pink);

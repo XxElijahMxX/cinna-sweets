@@ -51,10 +51,10 @@
 
 @media screen and (max-width: 2000px) {
     .app__menu-special-menu_img {
-        width: 650px;
+        width: 450px;
     }
     .app__menu-special-menu_img img {
-        height: 600px;
+        height: 400px;
     }
 }
 
