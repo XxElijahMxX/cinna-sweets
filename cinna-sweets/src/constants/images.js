@@ -9,6 +9,7 @@ import gallery01 from '../assets/gallery01.jpg'
 import gallery02 from '../assets/gallery02.jpg'
 import gallery03 from '../assets/gallery03.jpg'
 import gallery04 from '../assets/gallery04.jpg'
+import findUs from '../assets/find us.jpg'
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
@@ -23,4 +24,5 @@ export default {
     gallery02,
     gallery03,
     gallery04,
+    findUs,
 };
